@@ -1,13 +1,31 @@
 {
   "files": {
     "main.css": "/react-exercises-by-Repeta/static/css/main.93f80f61.css",
-    "main.js": "/react-exercises-by-Repeta/static/js/main.aaed7dcc.js",
+    "main.js": "/react-exercises-by-Repeta/static/js/main.4bc061ba.js",
+    "static/js/104.ae665c68.chunk.js": "/react-exercises-by-Repeta/static/js/104.ae665c68.chunk.js",
+    "static/js/544.6ee4d8fe.chunk.js": "/react-exercises-by-Repeta/static/js/544.6ee4d8fe.chunk.js",
+    "static/js/989.a7b9cbe0.chunk.js": "/react-exercises-by-Repeta/static/js/989.a7b9cbe0.chunk.js",
+    "static/js/363.94f14627.chunk.js": "/react-exercises-by-Repeta/static/js/363.94f14627.chunk.js",
+    "static/js/651.ba9a0fbf.chunk.js": "/react-exercises-by-Repeta/static/js/651.ba9a0fbf.chunk.js",
+    "static/js/229.e0ac4365.chunk.js": "/react-exercises-by-Repeta/static/js/229.e0ac4365.chunk.js",
+    "static/js/681.991e431c.chunk.js": "/react-exercises-by-Repeta/static/js/681.991e431c.chunk.js",
+    "static/js/256.a511c465.chunk.js": "/react-exercises-by-Repeta/static/js/256.a511c465.chunk.js",
+    "static/js/128.999da134.chunk.js": "/react-exercises-by-Repeta/static/js/128.999da134.chunk.js",
     "index.html": "/react-exercises-by-Repeta/index.html",
     "main.93f80f61.css.map": "/react-exercises-by-Repeta/static/css/main.93f80f61.css.map",
-    "main.aaed7dcc.js.map": "/react-exercises-by-Repeta/static/js/main.aaed7dcc.js.map"
+    "main.4bc061ba.js.map": "/react-exercises-by-Repeta/static/js/main.4bc061ba.js.map",
+    "104.ae665c68.chunk.js.map": "/react-exercises-by-Repeta/static/js/104.ae665c68.chunk.js.map",
+    "544.6ee4d8fe.chunk.js.map": "/react-exercises-by-Repeta/static/js/544.6ee4d8fe.chunk.js.map",
+    "989.a7b9cbe0.chunk.js.map": "/react-exercises-by-Repeta/static/js/989.a7b9cbe0.chunk.js.map",
+    "363.94f14627.chunk.js.map": "/react-exercises-by-Repeta/static/js/363.94f14627.chunk.js.map",
+    "651.ba9a0fbf.chunk.js.map": "/react-exercises-by-Repeta/static/js/651.ba9a0fbf.chunk.js.map",
+    "229.e0ac4365.chunk.js.map": "/react-exercises-by-Repeta/static/js/229.e0ac4365.chunk.js.map",
+    "681.991e431c.chunk.js.map": "/react-exercises-by-Repeta/static/js/681.991e431c.chunk.js.map",
+    "256.a511c465.chunk.js.map": "/react-exercises-by-Repeta/static/js/256.a511c465.chunk.js.map",
+    "128.999da134.chunk.js.map": "/react-exercises-by-Repeta/static/js/128.999da134.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93f80f61.css",
-    "static/js/main.aaed7dcc.js"
+    "static/js/main.4bc061ba.js"
   ]
 }
