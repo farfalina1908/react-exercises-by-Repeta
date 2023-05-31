@@ -1,13 +1,17 @@
-import { Routes, Route } from 'react-router-dom';
-import { SharedLayout } from './SharedLayout';
-import Home from '../pages/Home/Home';
-import About from '../pages/About/About';
-import { Mission } from './Mission';
-import { Team } from './Team';
-import { Reviews } from './Reviews';
-import { Products } from '../pages/Products/Products';
-import { ProductDetails } from '../pages/ProductDetails/ProductDetails';
-import NotFound from '../pages/NotFound/NotFound';
+import { lazy } from 'react';
+import { Route, Routes } from 'react-router-dom';
+import SharedLayout from './SharedLayout';
+
+const About = lazy(() => import('../pages/About/About'));
+const Home = lazy(() => import('../pages/Home/Home'));
+const ProductDetails = lazy(() =>
+  import('../pages/ProductDetails/ProductDetails')
+);
+const Products = lazy(() => import('../pages/Products/Products'));
+const Mission = lazy(() => import('./Mission'));
+const Team = lazy(() => import('./Team'));
+const Reviews = lazy(() => import('./Reviews'));
+const NotFound = lazy(() => import('../pages/NotFound/NotFound'));
 
 export const App = () => {
   return (
